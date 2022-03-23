@@ -21,7 +21,7 @@
 
 **光学视界**
 
-<img src="D:\github\slides-play-on-github\myslide.assets\屏幕截图 2022-03-23 134700.png" style="zoom: 80%;" />
+![](https://github.com/liujingtiaan/slides-play-on-github/blob/main/assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-03-23%20134700.png)
 
 -------------------------
 
